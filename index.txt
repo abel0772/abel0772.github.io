@@ -1,10 +1,10 @@
-Ethan Ward - Web Developer from New York
+Abel Indra - Software Developer from Indonesia
 
 
 
 #---------- HEADER ----------#
 
-Ethan Ward
+Abel Indra
 
 aria-label = Toggle Menu
 
@@ -38,9 +38,9 @@ alt = I'm developer from New York
 
 Hello I'm
 
-Ethan Ward
+Abel Indra
 
-Web Developer from New York
+Software Developer from Indonesia
 
 Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
 
